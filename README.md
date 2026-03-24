@@ -141,7 +141,6 @@ AI usage in this project:
 
 - AI was used for documentation support and README drafting.
 - It was used to summarize the subject requirements, organize sections, and provide bilingual English/Japanese wording.
-- Any generated text or suggestions should still be reviewed manually to ensure they accurately match the actual implementation.
 
 ### 日本語
 
@@ -158,7 +157,6 @@ AI usage in this project:
 
 - AI はドキュメント補助と README 作成支援に使用しました。
 - 課題要件の整理、セクション構成、英語と日本語の文章調整に利用しました。
-- 生成された内容や提案は、実装と一致しているかを手動で確認する前提です。
 
 ## More Information / 補足
 
